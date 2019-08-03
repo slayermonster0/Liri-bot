@@ -1,0 +1,36 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slayermonster0/Liri-bot"
+  },
+  "keywords": [
+    "liri",
+    "nodejs",
+    "bot"
+  ],
+  "author": "Steve Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/captnwalker/liri-bot/issues"
+  },
+  "homepage": "https://github.com/captnwalker/liri-bot#readme",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "inquirer": "^4.0.2",
+    "liribot": "^1.0.4",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0",
+    "simple-node-logger": "^0.93.42",
+    "spotify-web-api-js": "^1.2.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  }
+}
