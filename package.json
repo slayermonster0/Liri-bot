@@ -18,9 +18,9 @@
   "author": "Steve Walker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/captnwalker/liri-bot/issues"
+    "url": "https://github.com/slayermonster0/liri-bot/issues"
   },
-  "homepage": "https://github.com/captnwalker/liri-bot#readme",
+  "homepage": "https://github.com/slayermonster0/liri-bot#readme",
   "dependencies": {
     "bandsintown": "^1.0.1",
     "dotenv": "^4.0.0",
